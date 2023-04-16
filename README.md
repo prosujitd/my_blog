@@ -26,6 +26,8 @@
 - Use default settings from above information
 - composer update
 - php artisan migrate --seed
+- To login => visit /login
+
 
 # Conclusion
 - Only done part related to POST model 
