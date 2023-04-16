@@ -23,10 +23,10 @@
 
 # Run the Project
 - Create a database name called "my_blog"
-- Use default settings from above information
+- use .env.example file and rename to .env and configure with above default settings
 - composer update
 - php artisan migrate --seed
-- To login => visit /login
+- To login => visit /login using above credentials
 
 
 # Conclusion
@@ -35,3 +35,4 @@
 - Created components for index, edit and create page.
 - As I said before I have never been done any project along with Livewire. But realized, it has powerfull features to create SPA by using Turbolinks. So I have to watch the videos to research and jump to the point where I was before on coding. 
 - Realized Livewire need Turbolinks for SPA at the end of project
+- Decided to recheck and restart all the courses related to Livewire from scratch and will do another project on it
