@@ -25,7 +25,7 @@
 - Create a database name called "my_blog"
 - Use default settings from above information
 - composer update
-- php artisan migrate db:seed
+- php artisan migrate --seed
 
 # Conclusion
 - Only done part related to POST model 
